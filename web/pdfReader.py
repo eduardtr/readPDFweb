@@ -10,7 +10,7 @@ from langchain_core.prompts import ChatPromptTemplate
 
 import getpass
 import os
-os.environ["OPENAI_API_KEY"] = "sk-svcacct-hlS5HaSdoygnN-dslWfB0E9lIXWExrfquYF4Bo2KhWSsxYNgEB4Ydznl2core7zUsJ87AT3BlbkFJs1SqLT1l1x6qRY_ZyKY2EqrfEX--ZRS1T0GbdNGAaKvXp8rY86QHRbeuOPuvE9-bu6K7gA"
+#os.environ["OPENAI_API_KEY"] = os.getenv('OPENAI_API_KEY')
 
 rag_chain = {}
 loaded_document = ""
