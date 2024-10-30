@@ -1,3 +1,3 @@
 function showLoading(){
-    document.getElementById("loading").style.display = "inline";
+    document.getElementById("loading").style.display = "inline-block";
 }
