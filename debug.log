@@ -2264,3 +2264,5 @@ django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000
 Bad Request: /
 "GET / HTTP/1.1" 400 143
 File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1730231791.2990694
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\readPDFweb\web\templates\index.html previous mtime: 1730306315.6953185, current mtime: 1730306429.6126435
+C:\Users\eduar\Documents\Playoffnations\Python\readPDF\readPDFweb\web\templates\index.html notified as changed. Signal results: [(<function template_changed at 0x000001DAAB5CC9D0>, True), (<function translation_file_changed at 0x000001DAABE9ED40>, None)].
