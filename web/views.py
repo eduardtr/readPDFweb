@@ -16,7 +16,7 @@ def index(request):
         if form.is_valid():
             try:
                 saved_form = form.save()
-                questions = Question.objects.all
+                questions = Question.objects.order_by('-id')[:10]
                 if request.FILES:
                     print(request.scheme)
                     load_document(request.scheme+"://"+request.get_host()+saved_form.file.url)
