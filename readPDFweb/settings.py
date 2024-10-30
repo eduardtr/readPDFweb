@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*%7hb64_b2^c!g3^^1z9=boh-mr4ztn@$7urns96ag(km9inn^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['iapdfreader.duckdns.org','81.173.84.186']
 
 
 # Application definition
