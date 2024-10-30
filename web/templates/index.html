@@ -1,0 +1,58 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF Reader</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="{% static 'assets/css/main.css' %}" />
+</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<h1>PDF Reader</h1>
+				<p>Carga tu PDF y hazle preguntas. Así de fácil.</p>
+			</header>
+
+			{% if uploaded_file_url %}
+				<p>File uploaded at: <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
+		  	{% endif %}
+
+		<!-- Signup Form -->
+			<form id="question-form" method="post" action="#" enctype="multipart/form-data">
+				{% csrf_token %}
+				{{ form.as_p }}
+				<br>
+				{% if saved_form.file%}
+					<p>Actualmente se está utilizando el fichero <a href="{{saved_form.file.url}}" target="_blank">"{{saved_form.file.name}}"</a>.</p>
+				{% else %}
+					<p>Actualmente se está utilizando el fichero <a href="https://www.boe.es/doue/2016/119/L00001-00088.pdf" target="_blank">"REGLAMENTO (UE) 2016/ 679 DEL PARLAMENTO EUROPEO"</a>.</p>
+				{% endif %}
+				<input type="submit" value="Enviar" />
+				<div class="loader"></div>
+			</form>
+
+		<!-- Post Header -->
+			{% if answer%}
+				<header id="post-header">
+					<p><b>Respuesta:</b> {{answer}}</p>
+				</header>
+			{% endif %}
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="mailto:eduard.torres.romero@me.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Eduard Torres Romero.</li><li>Credits: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="{% static 'assets/js/main.js' %}"></script>
+
+	</body>
+</html>
