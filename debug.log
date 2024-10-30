@@ -2209,3 +2209,58 @@ File C:\Users\eduar\AppData\Local\Programs\Python\Python310\Lib\asyncio\trsock.p
 File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\yaml\nodes.py first seen with mtime 1730230358.3930423
 File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\rich\_emoji_codes.py first seen with mtime 1730230687.8824773
 File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\readPDFweb\web\templates\index.html first seen with mtime 1730306315.6953185
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1730231789.9005406
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1730231791.787624
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1730231790.4418783
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1730231791.300554
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1730231791.298067
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\middleware\common.py first seen with mtime 1730231791.844924
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1730231791.7550483
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1730231790.3024576
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1730231791.4359426
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1730231790.3034787
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1730231791.747499
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1730231790.4418783
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1730231790.3055935
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1730231791.8437686
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1730231791.747499
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\readPDFweb\web\migrations\0004_alter_question_file.py first seen with mtime 1730283121.7021425
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1730231790.3066
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\readPDFweb\readPDFweb\wsgi.py first seen with mtime 1730231830.092697
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1730231790.3014286
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1730231790.3024576
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1730231790.3014286
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\readPDFweb\web\migrations\0002_alter_question_file.py first seen with mtime 1730277722.8494606
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\readPDFweb\web\migrations\0003_alter_question_answer.py first seen with mtime 1730277994.88227
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1730231790.3066
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1730231789.9005406
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1730231791.2990694
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1730231791.747499
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1730231791.4359426
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1730231791.0332267
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1730231790.3045704
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\readPDFweb\web\migrations\0001_initial.py first seen with mtime 1730232747.5935206
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1730231790.3034787
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1730231789.8994486
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1730231790.3034787
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1730231791.298067
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\readPDFweb\web\migrations\__init__.py first seen with mtime 1730231930.0751998
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1730231789.9005406
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1730231790.3055935
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1730231790.4408286
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1730231791.3018074
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1730231790.3045704
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /
+"GET / HTTP/1.1" 400 143
+File C:\Users\eduar\Documents\Playoffnations\Python\readPDF\venv\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1730231791.2990694
